@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.twitter.common:io:0.0.56">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter.common/io/jars/io-0.0.56.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: spy:spymemcached:2.8.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/spy/spymemcached/jars/spymemcached-2.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
